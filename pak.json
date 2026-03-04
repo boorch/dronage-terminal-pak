@@ -1,0 +1,22 @@
+{
+  "name": "Dronage Terminal",
+  "version": "v2.0.1",
+  "type": "TOOL",
+  "description": "Ambient drone synthesizer with 4 macro oscillators, modulation matrix, and effects",
+  "author": "boorch (Bruce Menace/Cometary Trails)",
+  "repo_url": "https://github.com/boorch/dronage-terminal-pak",
+  "release_filename": "Dronage.Terminal.pak.zip",
+  "platforms": ["tg5040"],
+  "features": [
+    "4 macro oscillators with multiple synthesis engines",
+    "Modulation matrix with per-slot attenuverters",
+    "4 LFOs, stereo delay, and reverb",
+    "Scala microtuning support",
+    "WAV recording and preset system",
+    "Real-time spectrum analyzer"
+  ],
+  "screenshots": [
+    ".github/screenshots/splash.png",
+    ".github/screenshots/main.png"
+  ]
+}
