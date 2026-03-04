@@ -8,6 +8,7 @@
   "release_filename": "Dronage.Terminal.pak.zip",
   "platforms": ["tg5040"],
   "features": [
+    "IMPORTANT: Press R1+Select for HELP Screen",
     "4 macro oscillators with multiple synthesis engines",
     "Modulation matrix with per-slot attenuverters",
     "4 LFOs, stereo delay, and reverb",
