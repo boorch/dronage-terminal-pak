@@ -11,10 +11,10 @@ Available via **PAK Store** on NextUI. Connect your TrimUI Brick to Wi-Fi, open 
 Presets, recordings, and tuning files are stored in:
 
 ```
-/mnt/SDCARD/.userdata/shared/Dronage Terminal/
+/mnt/SDCARD/DronageTerminal/
 ```
 
-This folder survives PAK updates. On first launch, bundled Scala tuning files are automatically copied there.
+This folder is on the root of your SD card for easy access. It survives PAK updates. On first launch, bundled Scala tuning files are automatically copied there.
 
 ## Manual Installation
 
