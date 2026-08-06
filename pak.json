@@ -1,6 +1,6 @@
 {
   "name": "Dronage Terminal",
-  "version": "v3.0.1",
+  "version": "v3.1.0",
   "type": "TOOL",
   "description": "PRO TIP: R1+Select is HELP. Ambient drone synthesizer with 4 macro oscillators, modulation matrix, and effects. Projects, recordings and user scales are stored in DronageTerminal folder at the root of your SD Card. You can check out the 'desktop' version (that contains a very comprehensive README.md) of Dronage Terminal here: https://boorch.itch.io/dronage-terminal Additionally you can search for 'Dronage Terminal Tutorial' on YouTube for a 'Basics Tutorial'.",
   "author": "boorch (Bruce Menace/Cometary Trails)",
@@ -11,7 +11,7 @@
   ],
   "features": [
     "IMPORTANT: Press R1+Select for HELP Screen",
-    "4 macro oscillators, 29 synthesis engines",
+    "4 macro oscillators, 32 synthesis engines",
     "Modulation matrix with per-slot attenuverters",
     "8 LFOs and a 5-track modulation sequencer",
     "Stereo delay with granular mode, and shimmer reverb",
