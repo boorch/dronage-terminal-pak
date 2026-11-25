@@ -1,4 +1,4 @@
-# Dronage Terminal — TrimUI Brick PAK
+# Dronage Terminal for the TrimUI Brick
 
 A drone workstation for the TrimUI Brick, featuring 4 macro oscillators, extensive modulation capabilities, and custom tailored effects.
 
